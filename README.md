@@ -1,4 +1,5 @@
-### Hi there 👋
+[![ghan's 42 stats](https://badge42.herokuapp.com/api/stats/ghan)](https://github.com/JaeSeoKim/badge42)
+
 
 <!--
 **42ghan/42ghan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
