@@ -1,4 +1,4 @@
-[![ghan's 42 stats](https://badge42.herokuapp.com/api/stats/ghan)](https://github.com/JaeSeoKim/badge42)
+[![ghan's 42 stats](https://badge42.herokuapp.com/api/stats/ghan?darkmode=true)](https://github.com/JaeSeoKim/badge42)
 
 
 <!--
