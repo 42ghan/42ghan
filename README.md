@@ -1,5 +1,4 @@
-[![ghan's 42 stats](https://badge42.herokuapp.com/api/stats/ghan?darkmode=true)](https://github.com/JaeSeoKim/badge42)
-
+[![ghan's 42 stats](https://badge42.vercel.app/api/v2/cl1p5eg7i00470alay9tbdjoh/stats?cursusId=21&coalitionId=87)](https://github.com/JaeSeoKim/badge42)
 
 <!--
 **42ghan/42ghan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
